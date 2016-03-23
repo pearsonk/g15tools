@@ -20,6 +20,7 @@
 #include "libg15render.h"
 #include <sys/types.h>
 #include <fcntl.h>
+#include <stdio.h>
 #include <unistd.h>
 #ifdef TTF_SUPPORT
 #include <ft2build.h>
